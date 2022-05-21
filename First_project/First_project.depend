@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653095358 source:/home/pedroso/intensivao/First_project/main.c
+	<stdio.h>
+	"operations.h"
+
+1653095835 /home/pedroso/intensivao/First_project/operations.h
+
