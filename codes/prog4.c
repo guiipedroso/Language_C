@@ -19,8 +19,6 @@ int main()
   printf("float = %ld bytes\n", sizeof(float));
   printf("double = %ld bytes\n", sizeof(double));
 
-
-
   getchar();
   return(0);
   } /* end main*/
