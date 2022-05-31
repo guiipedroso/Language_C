@@ -13,12 +13,12 @@
 int 
 main()
 {
-  short int d, m;
+  short int d,m;
   long int y;
 
-  printf("Enter the date in the format dd/mm/aaaa: ");
-  scanf("%hd/%hd/%ld", &d, &m ,&y);
-  printf("Date ==> %hd/%hd/%ld\n", d,m,y);
-
+  printf("Enter the date in the format aaaa-mm-dd: ");
+  scanf("%ld-%hd-%hd", &y,&m,&d);
+  printf("The date chosen was %hd/%hd/%ld\n", d,m,y);
+  
   return(0);
 }
