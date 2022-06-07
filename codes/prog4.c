@@ -11,7 +11,8 @@
 #include <stdio.h>
 
 /*Main function*/
-int main()
+int 
+main()
   {
   printf("void = %ld bytes\n", sizeof(void));	  
   printf("char = %ld bytes\n", sizeof(char));  
