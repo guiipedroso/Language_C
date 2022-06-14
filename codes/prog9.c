@@ -12,7 +12,6 @@
 /* Main function*/
 int main()
   {
-  
   float pi = 3.141592, 
         capacitor = 1.0E-6,
        	resistor = 3.0E3,
