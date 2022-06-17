@@ -1,16 +1,16 @@
 /*
-  Title: Skeleton 
-  Author: Guilherme Pedroso de Lima
+  Title: Skeleton  
+  Author: Guilherme Pedroso 
   Date: May 2022
   Updated: --
 
 
 */
 
-/* Libraries */
+/* <Libraries> */
 #include <stdio.h>
 
-/* Main function */
+/* <Main function> */
 int
 main(void)
   {
@@ -18,4 +18,4 @@ main(void)
 
   getchar();
   return(0);
-  } /* end main */
+  } /* <end main> */
