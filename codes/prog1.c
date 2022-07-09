@@ -3,10 +3,9 @@
 
 /* Main function */
 int
-main (void)
+main(void)
   {
   printf ("H%cllo Wo%cl%c\n", e, r, d);
-
   getchar();
   return(0);
   } /* end main */
