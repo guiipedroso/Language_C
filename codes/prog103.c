@@ -1,5 +1,5 @@
 /*
-  Title: Minus 
+  Title: Compare  
   Author: Guilherme Pedroso 
   Date: July 2022
   Updated: --
@@ -10,18 +10,18 @@
 #include <stdio.h>
 
 /* <Prototypes> */
-int is_minus(int value);
+int is_special(int value);
 
 /* <Main function> */
 int
-main()
+main(void)
   {
   int result;
 
   /* <Examples> */
-  result = is_minus(89);
+  result = is_special(2);
   printf("%d\n", result);
-  result = is_minus(195);
+  result = is_special(5);
   printf("%d\n", result);
 
   getchar();
@@ -29,15 +29,14 @@ main()
   } /* <end main> */
 
 int
-is_minus(int value)
+is_special(int x)
   {
-  if(value > 0)
+  if((x*2) == (x*x))
     {
-    value *= -1;
-    return(value);
-    }
-  else 
+    return(1);
+    }  
+  else
     {
-    return(value);
+    return(0);
     }
   }
