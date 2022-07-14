@@ -18,6 +18,7 @@ main(void)
   {
   int result;
 
+  /* <Examples> */
   result = is_square(3,5);
   printf("%d\n", result);
   result = is_square(4,2);
