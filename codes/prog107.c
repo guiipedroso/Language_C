@@ -13,8 +13,6 @@
 #define talk printf("Hello "); \
 	     printf("World!\n")
 
-/* <Prototypes> */
-
 /* <Main function> */
 int
 main()

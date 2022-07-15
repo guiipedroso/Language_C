@@ -13,8 +13,6 @@
 #define sum(a,b) a+b 
 #define div(c,d) c/d
 
-/* <Prototypes> */
-
 /* <Main function> */
 int
 main()

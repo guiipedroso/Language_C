@@ -12,8 +12,6 @@
 /* <Macros> */
 #define talk(text) printf(#text)
 
-/* <Prototypes> */
-
 /* <Main function> */
 int
 main()
