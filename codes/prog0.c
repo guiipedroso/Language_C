@@ -11,7 +11,7 @@
 
 /* <Macros> */
 
-/*Prototypes*/
+/* <Prototypes> */
 
 /* <Main function> */
 int
