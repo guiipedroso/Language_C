@@ -4,17 +4,19 @@
   Date: May 2022
   Updated: --
 
-
 */
 
 /* <Libraries> */
 #include <stdio.h>
 
+/* <Macros> */
+
+/*Prototypes*/
+
 /* <Main function> */
 int
-main(void)
+main()
   {
-
 
   getchar();
   return(0);
