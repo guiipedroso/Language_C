@@ -1,6 +1,5 @@
 /* ================================================================
-  Program to illustrate the use of comments
-
+  Title: Sum
   Author: Guilherme Pedroso
   Date: May 2022
   Updated: --
