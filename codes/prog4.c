@@ -1,6 +1,5 @@
 /* =============================================================
-  Title: Types modifiers
-  
+  Title: Types modifiers  
   Author: Guilherme Pedroso
   Date: May 2022 
   Updated: --
@@ -23,5 +22,3 @@ main()
   getchar();
   return(0);
   } /* end main*/
-
-
