@@ -9,6 +9,8 @@
 /* Libraries */
 #include <stdio.h>
 
+/* Macros */
+
 /*Main function*/
 int 
 main()
