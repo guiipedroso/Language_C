@@ -17,7 +17,6 @@ int main()
   resistor_2 = 1.5E3;
   voltage_input = 40.0;
   voltage_output = voltage_input*resistor_2/(resistor_2+resistor_1);
-  
   printf("Voltage output = %.3f\n", voltage_output); 
   getchar();
   return(0);
