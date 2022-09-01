@@ -12,6 +12,8 @@
 
 float sum(float x, float y);
 float sub(float x, float y);
+float div(float x, float y);
+float mul(float x, float y);
 
 
 /* <Main function> */
@@ -30,16 +32,38 @@ main()
   show = sub(4.5,2);
   printf("Subtraction = %.1f\n", show);
 
+  show = div(5.04,2.1);
+  printf("Divison = %f\n", show);
+  show = mul(12.15,3.1);
+  printf("Multiplication = %.3f\n", show);
+  show = div((1.5+0.012),1.68);
+  printf("Divison = %f\n", show);
+  show = mul(2.8,3.5);
+  printf("Multiplication = %f\n", show);
+
   return(0);
   }
 
-float sum(float x, float y)
+float sum
+(float x, float y)
   {
   return(x+y);
   }
 
-float sub(float x, float y)
+float sub
+(float x, float y)
   {
   return(x-y);
   }
 
+float div
+(float x, float y)
+  {
+  return(x/y);
+  }
+
+float mul
+(float x, float y)
+  {
+  return(x*y);
+  }
