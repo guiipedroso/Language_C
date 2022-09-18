@@ -28,7 +28,7 @@ prime(int contt)
  {
  if(contt == 2)
    {
-   printf("Is prime numero\n");
+   printf("Is prime\n");
    }
  else 
    {
