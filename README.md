@@ -12,7 +12,7 @@
        <br>
        <br>
     <h1 align="center"> Algorithms 1 - Using C language </h1>
-    <table>
+    <table aling="center">
         <tr> 
             <td>Number</td>
             <td>Name</td>
