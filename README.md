@@ -58,15 +58,35 @@
             <td>Ohm's Law</td>
             <td>I = V/R</td>
         </tr>
-                <tr align="middle"> 
+        <tr align="middle"> 
             <td text-aling="center">8</td>
             <td>Voltage divider</td>
             <td>Vout= Vin (R2/(R1 + R1))</td>
         </tr>
-                <tr align="middle"> 
+        <tr align="middle"> 
             <td text-aling="center">9</td>
             <td>Frequecy</td>
             <td>F = (1/(2*π*R*C))</td>
+        </tr>
+        <tr align="middle"> 
+            <td text-aling="center">10</td>
+            <td>Bank</td>
+            <td>User</td>
+        </tr>
+        <tr align="middle"> 
+            <td text-aling="center">11</td>
+            <td>Diamond</td>
+            <td>Area</td>
+        </tr>
+        <tr align="middle"> 
+            <td text-aling="center">12</td>
+            <td></td>
+            <td></td>
+        </tr>          
+        <tr align="middle"> 
+            <td text-aling="center">13</td>
+            <td></td>
+            <td></td>
         </tr>
     </table>
     </body>
