@@ -80,20 +80,20 @@
         </tr>
         <tr align="middle"> 
             <td text-aling="center">12</td>
-            <td></td>
-            <td></td>
+            <td>ASCII table</td>
+            <td>%c ==> %d</td>
         </tr>          
         <tr align="middle"> 
             <td text-aling="center">13</td>
-            <td></td>
-            <td></td>
+            <td>Casting</td>
+            <td>Other type</td>
         </tr>
         <tr align="middle"> 
             <td text-aling="center">14</td>
             <td></td>
             <td></td>
         </tr>
-                <tr align="middle"> 
+        <tr align="middle"> 
             <td text-aling="center">15</td>
             <td></td>
             <td></td>
@@ -115,6 +115,36 @@
         </tr>
                 <tr align="middle"> 
             <td text-aling="center">19</td>
+            <td></td>
+            <td></td>
+        </tr>
+                        <tr align="middle"> 
+            <td text-aling="center">20</td>
+            <td></td>
+            <td></td>
+        </tr>
+                <tr align="middle"> 
+            <td text-aling="center">21</td>
+            <td></td>
+            <td></td>
+        </tr>
+                <tr align="middle"> 
+            <td text-aling="center">22</td>
+            <td></td>
+            <td></td>
+        </tr>
+                <tr align="middle"> 
+            <td text-aling="center">23</td>
+            <td></td>
+            <td></td>
+        </tr>
+                <tr align="middle"> 
+            <td text-aling="center">24</td>
+            <td></td>
+            <td></td>
+        </tr>
+                <tr align="middle"> 
+            <td text-aling="center">25</td>
             <td></td>
             <td></td>
         </tr>
