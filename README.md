@@ -53,6 +53,21 @@
             <td>Cylinder Volume</td>
             <td>π r² h</td>
         </tr>
+        <tr align="middle"> 
+            <td text-aling="center">7</td>
+            <td>Ohm's Law</td>
+            <td>I = V/R</td>
+        </tr>
+                <tr align="middle"> 
+            <td text-aling="center">8</td>
+            <td>Voltage divider</td>
+            <td>Vout= Vin (R2/(R1 + R1))</td>
+        </tr>
+                <tr align="middle"> 
+            <td text-aling="center">9</td>
+            <td>Frequecy</td>
+            <td>F = (1/(2*π*R*C))</td>
+        </tr>
     </table>
     </body>
 </html>
