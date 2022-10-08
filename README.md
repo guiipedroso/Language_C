@@ -90,60 +90,60 @@
         </tr>
         <tr align="middle"> 
             <td text-aling="center">14</td>
-            <td></td>
-            <td></td>
+            <td>Hour</td>
+            <td>Hours:Minutes:Seconds</td>
         </tr>
         <tr align="middle"> 
             <td text-aling="center">15</td>
-            <td></td>
+            <td>Fractional part</td>
             <td></td>
         </tr>
-                <tr align="middle"> 
+            <tr align="middle"> 
             <td text-aling="center">16</td>
             <td></td>
             <td></td>
         </tr>
-                <tr align="middle"> 
+            <tr align="middle"> 
             <td text-aling="center">17</td>
             <td></td>
             <td></td>
         </tr>
-                <tr align="middle"> 
+            <tr align="middle"> 
             <td text-aling="center">18</td>
             <td></td>
             <td></td>
         </tr>
-                <tr align="middle"> 
+            <tr align="middle"> 
             <td text-aling="center">19</td>
             <td></td>
             <td></td>
         </tr>
-                        <tr align="middle"> 
+            <tr align="middle"> 
             <td text-aling="center">20</td>
             <td></td>
             <td></td>
         </tr>
-                <tr align="middle"> 
+            <tr align="middle"> 
             <td text-aling="center">21</td>
             <td></td>
             <td></td>
         </tr>
-                <tr align="middle"> 
+            <tr align="middle"> 
             <td text-aling="center">22</td>
             <td></td>
             <td></td>
         </tr>
-                <tr align="middle"> 
+            <tr align="middle"> 
             <td text-aling="center">23</td>
             <td></td>
             <td></td>
         </tr>
-                <tr align="middle"> 
+            <tr align="middle"> 
             <td text-aling="center">24</td>
             <td></td>
             <td></td>
         </tr>
-                <tr align="middle"> 
+            <tr align="middle"> 
             <td text-aling="center">25</td>
             <td></td>
             <td></td>
