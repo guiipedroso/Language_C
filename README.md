@@ -96,7 +96,7 @@
         <tr align="middle"> 
             <td text-aling="center">15</td>
             <td>Fractional part</td>
-            <td></td>
+            <td>Int + Float (Parts)</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">16</td>
