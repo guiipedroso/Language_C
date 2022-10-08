@@ -12,11 +12,46 @@
        <br>
        <br>
     <h1 align="center"> Algorithms 1 - Using C language </h1>
-    <table aling="center">
+    <table align ="center" border="1">
         <tr> 
-            <td>Number</td>
-            <td>Name</td>
-            <td>Description</td>
+            <td align="center">Number</td>
+            <td align="center">Name</td>
+            <td align="center">Description</td>
+        </tr>
+         <tr align="middle"> 
+            <td text-aling="center">0</td>
+            <td>Skeleton</td>
+            <td>None</td>
+        </tr>
+        <tr align="middle"> 
+            <td text-aling="center">1</td>
+            <td>Hello World</td>
+            <td>None</td>
+        </tr>
+        <tr align="middle"> 
+            <td text-aling="center">2</td>
+            <td>Program of basic math</td>
+            <td>None</td>
+        </tr>
+        <tr align="middle"> 
+            <td text-aling="center">3</td>
+            <td>Sum</td>
+            <td>+ - * /</td>
+        </tr> 
+        <tr align="middle"> 
+            <td text-aling="center">4</td>
+            <td>Types modifiers</td>
+            <td>N° bytes</td>
+        </tr>
+        <tr align="middle"> 
+            <td text-aling="center">5</td>
+            <td>Tree</td>
+            <td>Drawing</td>
+        </tr>
+        <tr align="middle"> 
+            <td text-aling="center">6</td>
+            <td>Cylinder Volume</td>
+            <td>π r² h</td>
         </tr>
     </table>
     </body>
