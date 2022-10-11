@@ -235,33 +235,33 @@
         </tr>
             <tr align="middle"> 
             <td text-aling="center">44</td>
-            <td></td>
-            <td></td>
+            <td>Igual zero?</td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">45</td>
-            <td></td>
-            <td></td>
+            <td>Leap year</td>
+            <td>Year is leap or no</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">46</td>
-            <td></td>
-            <td></td>
+            <td>Month</td>
+            <td>Using Switch</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">47</td>
-            <td></td>
-            <td></td>
+            <td>Loop While</td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">48</td>
-            <td></td>
-            <td></td>
+            <td>Multiplication table</td>
+            <td>Loop While</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">49</td>
-            <td></td>
-            <td></td>
+            <td>Multiplication table</td>
+            <td>Loop While</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">50</td>
