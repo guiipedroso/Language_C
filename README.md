@@ -145,18 +145,18 @@
         </tr>
             <tr align="middle"> 
             <td text-aling="center">25</td>
-            <td></td>
-            <td></td>
+            <td>Cylinder volume</td>
+            <td>Cubic meters</td>
         </tr>
-                    <tr align="middle"> 
+            <tr align="middle"> 
             <td text-aling="center">26</td>
-            <td></td>
-            <td></td>
+            <td>Basic Calculator</td>
+            <td>+ - * /</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">27</td>
-            <td></td>
-            <td></td>
+            <td>Celsius</td>
+            <td>(1,8 x Tc) + 32</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">28</td>
