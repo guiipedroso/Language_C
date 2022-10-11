@@ -121,7 +121,7 @@
             <tr align="middle"> 
             <td text-aling="center">20</td>
             <td>IF-ELSE 2</td>
-            <td></td>
+            <td>Default</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">21</td>
