@@ -190,43 +190,38 @@
         </tr>
             <tr align="middle"> 
             <td text-aling="center">34</td>
-            <td></td>
-            <td></td>
-        </tr>
-            <tr align="middle"> 
-            <td text-aling="center">35</td>
-            <td></td>
-            <td></td>
+            <td>Age 2</td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">36</td>
-            <td></td>
-            <td></td>
+            <td>Condition '?'</td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">37</td>
-            <td></td>
-            <td></td>
+            <td>Register</td>
+            <td>Using regist</td>
         </tr>
-                    <tr align="middle"> 
+            <tr align="middle"> 
             <td text-aling="center">38</td>
-            <td></td>
-            <td></td>
+            <td>Volts</td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">39</td>
-            <td></td>
-            <td></td>
+            <td>Tax</td>
+            <td>Tax for sex</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">40</td>
-            <td></td>
-            <td></td>
+            <td>Tax</td>
+            <td>No command break</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">41</td>
-            <td></td>
-            <td></td>
+            <td>Basic Calculator with Switch</td>
+            <td>For user</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">42</td>
