@@ -18,7 +18,6 @@ int main()
 	frequency;
 
   frequency = (1/(2*pi*resistor*capacitor));
-  
   printf("%.2f", frequency);
   getchar();
   return(0);
