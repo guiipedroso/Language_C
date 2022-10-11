@@ -1,9 +1,8 @@
 /*
-  Title: IF_ELSE Ex_2
+  Title: IF-ELSE 2
   Author: Guilherme Pedroso
   Date: May 2022
   Updated: --
-
 */
 
 /* Libraries */
