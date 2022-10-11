@@ -100,18 +100,18 @@
         </tr>
             <tr align="middle"> 
             <td text-aling="center">16</td>
-            <td></td>
-            <td></td>
+            <td>Date</td>
+            <td>%hd/%hd/%ld</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">17</td>
-            <td></td>
-            <td></td>
+            <td>Date 2</td>
+            <td>%ld-%hd-%hd</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">18</td>
-            <td></td>
-            <td></td>
+            <td>Relational operators</td>
+            <td>> < >= <= == != </td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">19</td>
