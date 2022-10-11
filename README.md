@@ -261,7 +261,7 @@
             <tr align="middle"> 
             <td text-aling="center">49</td>
             <td>Multiplication table</td>
-            <td>Loop While</td>
+            <td>Nested Loop While</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">50</td>
