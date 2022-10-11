@@ -44,10 +44,6 @@ main()
   min = value_input();
   hour = conv_minute(min);
   print_hour(min,hour);
-
-  
- 
-  
   
   getchar();
   return(0);
