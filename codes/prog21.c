@@ -3,7 +3,6 @@
   Author: Guilherme Pedroso
   Date: May 2022
   Updated: --
-
 */
 
 /* Libraries */
@@ -16,7 +15,6 @@ main()
   float salary;
   printf("Salary: ");
   scanf("%f", &salary);
-
 
   if(salary < 50000)
     {
