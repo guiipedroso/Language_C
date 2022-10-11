@@ -3,7 +3,6 @@
   Nome: Guilherme Pedroso
   Date: May 2022
   Updated: --
-
 */
 
 /* Libraries */
