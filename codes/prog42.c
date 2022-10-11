@@ -1,5 +1,5 @@
 /*
-  Title: 
+  Title: Seconds
   Author: Guilherme Pedroso
   Date: June 2022
   Updated: --
