@@ -130,21 +130,291 @@
         </tr>
             <tr align="middle"> 
             <td text-aling="center">22</td>
-            <td></td>
-            <td></td>
+            <td>Salary</td>
+            <td>Nested if else</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">23</td>
-            <td></td>
-            <td></td>
+            <td>Salary 2</td>
+            <td>Using "?"</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">24</td>
+            <td>Character</td>
+            <td>None</td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">25</td>
+            <td></td>
+            <td></td>
+        </tr>
+                    <tr align="middle"> 
+            <td text-aling="center">26</td>
             <td></td>
             <td></td>
         </tr>
             <tr align="middle"> 
-            <td text-aling="center">25</td>
+            <td text-aling="center">27</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">28</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">29</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">30</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">31</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">32</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">33</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">34</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">35</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">36</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">37</td>
+            <td></td>
+            <td></td>
+        </tr>
+                    <tr align="middle"> 
+            <td text-aling="center">38</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">39</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">40</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">41</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">42</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">43</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">44</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">45</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">46</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">47</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">48</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">49</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">50</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">51</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">52</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">53</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">54</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">55</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">56</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">57</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">58</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">59</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">60</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">61</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">62</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center"></td>
             <td></td>
             <td></td>
         </tr>
