@@ -220,18 +220,18 @@
         </tr>
             <tr align="middle"> 
             <td text-aling="center">41</td>
-            <td>Basic Calculator with Switch</td>
+            <td>Basic Calculator w/ Switch</td>
             <td>For user</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">42</td>
-            <td></td>
-            <td></td>
+            <td>Seconds</td>
+            <td>Using "?"</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">43</td>
-            <td></td>
-            <td></td>
+            <td>Switch without break</td>
+            <td>Default</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">44</td>
