@@ -3,7 +3,6 @@
   Author: Guilherme Pedroso
   Date: June 2022
   Updated: --
-
 */
 
 /* <Libraries> */
@@ -14,7 +13,7 @@ int
 main()
   {
   unsigned char regist = 0x00;
-
+  
   printf("Enter a value for the register[00h-FFh]: ");
   scanf("%hhX", &regist);
 
