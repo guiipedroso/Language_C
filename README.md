@@ -170,23 +170,23 @@
         </tr>
             <tr align="middle"> 
             <td text-aling="center">30</td>
-            <td></td>
-            <td></td>
+            <td>IF-ELSE 3</td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">31</td>
-            <td></td>
-            <td></td>
+            <td>DESC</td>
+            <td>num1 > num2 ? </td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">32</td>
-            <td></td>
-            <td></td>
+            <td>False or True</td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">33</td>
-            <td></td>
-            <td></td>
+            <td>XOR</td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">34</td>
