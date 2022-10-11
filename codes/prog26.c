@@ -17,6 +17,7 @@ main()
 
   printf("Enter two integers: ");
   scanf("%d %d", &num, &num2);
+  printf("%d + %d = %d\n", num, num2, num+num2);
   printf("%d - %d = %d\n", num, num2, num-num2);
   printf("%d * %d = %d\n", num, num2, num*num2);
   printf("%d / %d = %d\n", num, num2, num/num2); 
