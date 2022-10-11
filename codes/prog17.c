@@ -1,9 +1,8 @@
 /*
-  Title: Date
+  Title: Date 2
   Author: Guilherme Pedroso
   Date: May 2022
   Updated: --
-
 */
 
 /* Libraries */
