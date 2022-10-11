@@ -160,13 +160,13 @@
         </tr>
             <tr align="middle"> 
             <td text-aling="center">28</td>
-            <td></td>
-            <td></td>
+            <td>ADC value</td>
+            <td>[0-1023]</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">29</td>
-            <td></td>
-            <td></td>
+            <td>Hours</td>
+            <td>Functions</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">30</td>
