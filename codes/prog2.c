@@ -1,6 +1,5 @@
 /* ================================================================
-  Program of basic math
-
+  Title: Program of basic math
   Author: Guilherme Pedroso
   Date: May 2022
   Updated: --
