@@ -1,9 +1,8 @@
 /*
-  Title: Salary II
+  Title: Salary
   Author: Guilherme Pedroso
   Date: June 2022 
   Updated: --
-
 */
 
 /* Libraries */
@@ -16,8 +15,6 @@ void print_salary()
   printf(" >= 1500 and < 7000\t 15%%\n");
   printf(" >= 7000\t\t 30%%\n");
   }
-
-
 
 /* main function */
 int 
