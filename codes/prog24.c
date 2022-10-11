@@ -1,5 +1,5 @@
 /*
-  Title: Caractere 
+  Title: Character 
   Author: Guilherme Pedroso
   Date: June 2022
   Updated: --
