@@ -1,3 +1,10 @@
+/*
+  Title: Hello World  
+  Author: Guilherme Pedroso 
+  Date: May 2022
+  Updated: --
+*/
+
 /* Libraries */
 #include <stdio.h>
 
