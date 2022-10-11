@@ -125,8 +125,8 @@
         </tr>
             <tr align="middle"> 
             <td text-aling="center">21</td>
-            <td></td>
-            <td></td>
+            <td>Basic Salary</td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">22</td>
