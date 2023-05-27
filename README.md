@@ -265,18 +265,18 @@
         </tr>
             <tr align="middle"> 
             <td text-aling="center">50</td>
-            <td></td>
-            <td></td>
+            <td>Loop For</td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">51</td>
-            <td></td>
-            <td></td>
+            <td>Multiplication table (Loop For)</td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">52</td>
-            <td></td>
-            <td></td>
+            <td>Multiplication table (Loop For)</td>
+            <td>Nested Loop For</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">53</td>
