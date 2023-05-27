@@ -285,122 +285,347 @@
         </tr>
             <tr align="middle"> 
             <td text-aling="center">54</td>
-            <td></td>
+            <td> Break (Loop For)</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">55</td>
-            <td></td>
+            <td>Break (Loop For)</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">56</td>
-            <td></td>
+            <td>Break (Loop For) II</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">57</td>
-            <td></td>
+            <td>MENU (Loop While)</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">58</td>
-            <td></td>
+            <td>Decrement (--)</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">59</td>
-            <td></td>
+            <td>Increment (++) Loop While</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">60</td>
-            <td></td>
+            <td> Error Increment</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">61</td>
-            <td></td>
+            <td>ASCII table </td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">62</td>
-            <td></td>
+            <td>ASCII table</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">63</td>
-            <td></td>
+            <td>ASCII table</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">64</td>
-            <td></td>
+            <td>Tree </td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">65</td>
-            <td></td>
+            <td>ASCII table (Tree)</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">66</td>
-            <td></td>
+            <td>ASCII table (Tree) II</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">67</td>
-            <td></td>
+            <td>ASCII table IV</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">68</td>
-            <td></td>
+            <td>ASCII table IV</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">69</td>
-            <td></td>
+            <td> Increment (Test)</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">70</td>
-            <td></td>
+            <td>Increment (Test)</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">71</td>
-            <td></td>
+            <td>Nested While</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">72</td>
-            <td></td>
+            <td>Frequency Hz (While)</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">73</td>
-            <td></td>
+            <td>Skeleton</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">74</td>
-            <td></td>
+            <td>Challenge Menu (While)</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">75</td>
-            <td></td>
+            <td>Break (Ex1)</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">76</td>
-            <td></td>
+            <td>Fibonacci</td>
             <td></td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">77</td>
+            <td>Diff for</td>
             <td></td>
+        </tr>
+ <tr align="middle"> 
+            <td text-aling="center">78</td>
+            <td>Skeleton</td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">79</td>
+            <td> Fake memomry 64 bits (FOR)</td>
+            <td></td>
+        </tr>
+ <tr align="middle"> 
+            <td text-aling="center">80</td>
+            <td>Box (FOR)</td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">81</td>
+            <td>Function</td>
+            <td></td>
+        </tr>
+ <tr align="middle"> 
+            <td text-aling="center">82</td>
+            <td> Function 2</td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">83</td>
+            <td>Function 3</td>
+            <td></td>
+        </tr>
+ <tr align="middle"> 
+            <td text-aling="center">84</td>
+            <td> Function x_isdigit</td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">85</td>
+            <td>ABS value</td>
+            <td></td>
+        </tr>
+ <tr align="middle"> 
+            <td text-aling="center">86</td>
+            <td>Math</td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">87</td>
+            <td> - </td>
+            <td></td>
+        </tr>
+ <tr align="middle"> 
+            <td text-aling="center">88</td>
+            <td>Hour </td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">89</td>
+            <td>Procedures (No Profissional)</td>
+            <td></td>
+        </tr>
+ <tr align="middle"> 
+            <td text-aling="center">90</td>
+            <td>Procedures (Profissional)</td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">91</td>
+            <td>Procedure with for</td>
+            <td></td>
+        </tr>
+ <tr align="middle"> 
+            <td text-aling="center">92</td>
+            <td>Procedure with for II</td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">93</td>
+            <td>Frequency CI 555</td>
+            <td></td>
+        </tr>
+ <tr align="middle"> 
+            <td text-aling="center">94</td>
+            <td>Nested Function</td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">95</td>
+            <td>Frequency II</td>
+            <td></td>
+        </tr>
+ <tr align="middle"> 
+            <td text-aling="center">96</td>
+            <td> - </td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">97</td>
+            <td>Variables</td>
+            <td></td>
+        </tr>
+ <tr align="middle"> 
+            <td text-aling="center">98</td>
+            <td>Choose the time</td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">99</td>
+            <td>Max value</td>
+            <td></td>
+        </tr>
+ <tr align="middle"> 
+            <td text-aling="center">100</td>
+            <td> - </td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">101</td>
+            <td>Square</td>
+            <td></td>
+        </tr>
+ <tr align="middle"> 
+            <td text-aling="center">102</td>
+            <td>Minus</td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">103</td>
+            <td>Compare</td>
+            <td></td>
+        </tr>
+  <tr align="middle"> 
+            <td text-aling="center">104</td>
+            <td>Cubo (X_3)</td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">105</td>
+            <td>Vogal</td>
+            <td></td>
+        </tr>
+  <tr align="middle"> 
+            <td text-aling="center">106</td>
+            <td>Salary with Array</td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">107</td>
+            <td>Hello World (Macro)</td>
+            <td></td>
+        </tr>
+  <tr align="middle"> 
+            <td text-aling="center">108</td>
+            <td>Hello World (Macro) II</td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">109</td>
+            <td>Sum (Macro)</td>
+            <td></td>
+        </tr>
+  <tr align="middle"> 
+            <td text-aling="center">110</td>
+            <td>Rand (Macro)</td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">111</td>
+            <td>Media (Macros)</td>
+            <td></td>
+        </tr>
+  <tr align="middle"> 
+            <td text-aling="center">112</td>
+            <td>Business (Array)</td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">113</td>
+            <td>RMS</td>
+            <td></td>
+        </tr>
+  <tr align="middle"> 
+            <td text-aling="center">114</td>
+            <td> - </td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">115</td>
+            <td> - </td>
+            <td></td>
+        </tr>
+  <tr align="middle"> 
+            <td text-aling="center">116</td>
+            <td> - </td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">117</td>
+            <td> - </td>
+            <td></td>
+        </tr>
+  <tr align="middle"> 
+            <td text-aling="center">118</td>
+            <td> - </td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">119</td>
+            <td> - </td>
+            <td></td>
+        </tr>
+  <tr align="middle"> 
+            <td text-aling="center">120</td>
+            <td> - </td>
+            <td></td>
+        </tr>
+            <tr align="middle"> 
+            <td text-aling="center">121</td>
+            <td> - </td>
+            <td></td>
+        </tr>
+  <tr align="middle"> 
+            <td text-aling="center">122</td>
+            <td>Breakfast</td>
             <td></td>
         </tr>
             <tr align="middle"> 
