@@ -11,7 +11,7 @@
        </p>
        <br>
        <br>
-    <h1 align="center"> Algorithms 1 - Using C language </h1>
+    <h1 align="center"> Algorithms - Using C language </h1>
     <table align ="center" border="1">
         <tr> 
             <td align="center">Number</td>
