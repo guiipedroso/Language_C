@@ -1,5 +1,5 @@
 /*
-  Title: Skeleton 
+  Title: Skeleton Menu
   Author: Guilherme Pedroso de Lima
 :x
   Updated: --
