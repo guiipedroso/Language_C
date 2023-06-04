@@ -521,122 +521,72 @@
             <tr align="middle"> 
             <td text-aling="center">101</td>
             <td>Square</td>
-            <td></td>
+            <td>None</td>
         </tr>
  <tr align="middle"> 
             <td text-aling="center">102</td>
             <td>Minus</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">103</td>
             <td>Compare</td>
-            <td></td>
+            <td>None</td>
         </tr>
   <tr align="middle"> 
             <td text-aling="center">104</td>
             <td>Cubo (X_3)</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">105</td>
             <td>Vogal</td>
-            <td></td>
+            <td>None</td>
         </tr>
   <tr align="middle"> 
             <td text-aling="center">106</td>
             <td>Salary with Array</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">107</td>
             <td>Hello World (Macro)</td>
-            <td></td>
+            <td>String</td>
         </tr>
   <tr align="middle"> 
             <td text-aling="center">108</td>
             <td>Hello World (Macro) II</td>
-            <td></td>
+            <td>#text</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">109</td>
             <td>Sum (Macro)</td>
-            <td></td>
+            <td>None</td>
         </tr>
   <tr align="middle"> 
             <td text-aling="center">110</td>
             <td>Rand (Macro)</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">111</td>
             <td>Media (Macros)</td>
-            <td></td>
+            <td>Operation</td>
         </tr>
   <tr align="middle"> 
             <td text-aling="center">112</td>
             <td>Business (Array)</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">113</td>
             <td>RMS</td>
-            <td></td>
+            <td>Funtion</td>
         </tr>
   <tr align="middle"> 
             <td text-aling="center">114</td>
             <td> - </td>
-            <td></td>
-        </tr>
-            <tr align="middle"> 
-            <td text-aling="center">115</td>
             <td> - </td>
-            <td></td>
-        </tr>
-  <tr align="middle"> 
-            <td text-aling="center">116</td>
-            <td> - </td>
-            <td></td>
-        </tr>
-            <tr align="middle"> 
-            <td text-aling="center">117</td>
-            <td> - </td>
-            <td></td>
-        </tr>
-  <tr align="middle"> 
-            <td text-aling="center">118</td>
-            <td> - </td>
-            <td></td>
-        </tr>
-            <tr align="middle"> 
-            <td text-aling="center">119</td>
-            <td> - </td>
-            <td></td>
-        </tr>
-  <tr align="middle"> 
-            <td text-aling="center">120</td>
-            <td> - </td>
-            <td></td>
-        </tr>
-            <tr align="middle"> 
-            <td text-aling="center">121</td>
-            <td> - </td>
-            <td></td>
-        </tr>
-  <tr align="middle"> 
-            <td text-aling="center">122</td>
-            <td>Breakfast</td>
-            <td></td>
-        </tr>
-            <tr align="middle"> 
-            <td text-aling="center"></td>
-            <td></td>
-            <td></td>
-        </tr>
-            <tr align="middle"> 
-            <td text-aling="center"></td>
-            <td></td>
-            <td></td>
         </tr>
     </table>
     </body>
