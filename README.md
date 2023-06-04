@@ -341,32 +341,32 @@
             <tr align="middle"> 
             <td text-aling="center">65</td>
             <td>ASCII table (Tree)</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">66</td>
             <td>ASCII table (Tree) II</td>
-            <td></td>
+            <td>Repeat</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">67</td>
             <td>ASCII table IV</td>
-            <td></td>
+            <td>Using For/Do while</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">68</td>
             <td>ASCII table IV</td>
-            <td></td>
+            <td>2 elements</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">69</td>
             <td> Increment (Test)</td>
-            <td></td>
+            <td>Sum</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">70</td>
             <td>Increment (Test)</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">71</td>
