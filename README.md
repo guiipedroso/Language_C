@@ -371,82 +371,82 @@
             <tr align="middle"> 
             <td text-aling="center">71</td>
             <td>Nested While</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">72</td>
-            <td>Frequency Hz (While)</td>
-            <td></td>
+            <td>Frequency Hz</td>
+            <td>Using While</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">73</td>
-            <td>Skeleton</td>
-            <td></td>
+            <td>Skeleton Menu</td>
+            <td>Do While/Switch</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">74</td>
-            <td>Challenge Menu (While)</td>
-            <td></td>
+            <td>Challenge Menu</td>
+            <td>While</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">75</td>
             <td>Break (Ex1)</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">76</td>
             <td>Fibonacci</td>
-            <td></td>
+            <td>Lib unistd (sleep)</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">77</td>
             <td>Diff for</td>
-            <td></td>
+            <td>Without initialization</td>
         </tr>
  <tr align="middle"> 
             <td text-aling="center">78</td>
-            <td>Skeleton</td>
-            <td></td>
+            <td>Password</td>
+            <td>Using Loop For</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">79</td>
             <td> Fake memomry 64 bits (FOR)</td>
-            <td></td>
+            <td>None</td>
         </tr>
  <tr align="middle"> 
             <td text-aling="center">80</td>
             <td>Box (FOR)</td>
-            <td></td>
+            <td>Nested For</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">81</td>
             <td>Function</td>
-            <td></td>
+            <td>Called</td>
         </tr>
  <tr align="middle"> 
             <td text-aling="center">82</td>
             <td> Function 2</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">83</td>
             <td>Function 3</td>
-            <td></td>
+            <td>None</td>
         </tr>
  <tr align="middle"> 
             <td text-aling="center">84</td>
             <td> Function x_isdigit</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">85</td>
             <td>ABS value</td>
-            <td></td>
+            <td>Ex: |-5| = 5</td>
         </tr>
  <tr align="middle"> 
             <td text-aling="center">86</td>
             <td>Math</td>
-            <td></td>
+            <td>Pot(^)</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">87</td>
