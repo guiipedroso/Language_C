@@ -451,72 +451,72 @@
             <tr align="middle"> 
             <td text-aling="center">87</td>
             <td> - </td>
-            <td></td>
+            <td> - </td>
         </tr>
  <tr align="middle"> 
             <td text-aling="center">88</td>
             <td>Hour </td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">89</td>
             <td>Procedures (No Profissional)</td>
-            <td></td>
+            <td>Without Prototype</td>
         </tr>
  <tr align="middle"> 
             <td text-aling="center">90</td>
             <td>Procedures (Profissional)</td>
-            <td></td>
+            <td>Using Prototype</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">91</td>
             <td>Procedure with for</td>
-            <td></td>
+            <td>None</td>
         </tr>
  <tr align="middle"> 
             <td text-aling="center">92</td>
             <td>Procedure with for II</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">93</td>
             <td>Frequency CI 555</td>
-            <td></td>
+            <td>Formula</td>
         </tr>
  <tr align="middle"> 
             <td text-aling="center">94</td>
             <td>Nested Function</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">95</td>
             <td>Frequency II</td>
-            <td></td>
+            <td>None</td>
         </tr>
  <tr align="middle"> 
             <td text-aling="center">96</td>
             <td> - </td>
-            <td></td>
+            <td> - </td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">97</td>
             <td>Variables</td>
-            <td></td>
+            <td>Local/Static</td>
         </tr>
  <tr align="middle"> 
             <td text-aling="center">98</td>
             <td>Choose the time</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">99</td>
             <td>Max value</td>
-            <td></td>
+            <td>Several variables in functions</td>
         </tr>
  <tr align="middle"> 
             <td text-aling="center">100</td>
             <td> - </td>
-            <td></td>
+            <td> - </td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">101</td>
