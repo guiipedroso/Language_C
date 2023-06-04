@@ -280,63 +280,63 @@
         </tr>
             <tr align="middle"> 
             <td text-aling="center">53</td>
-            <td>Loop for</td>
-            <td></td>
+            <td>Do While</td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">54</td>
             <td> Break (Loop For)</td>
-            <td></td>
+            <td>For with IF/ELSE</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">55</td>
             <td>Break (Loop For)</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">56</td>
             <td>Break (Loop For) II</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">57</td>
             <td>MENU (Loop While)</td>
-            <td></td>
+            <td>True Loop</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">58</td>
             <td>Decrement (--)</td>
-            <td></td>
+            <td>Before/Later</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">59</td>
             <td>Increment (++) Loop While</td>
-            <td></td>
+            <td>Using While</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">60</td>
             <td> Error Increment</td>
-            <td></td>
+            <td>None</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">61</td>
             <td>ASCII table </td>
-            <td></td>
+            <td>Print Table</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">62</td>
             <td>ASCII table</td>
-            <td></td>
+            <td>Input value</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">63</td>
             <td>ASCII table</td>
-            <td></td>
+            <td>Input interval</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">64</td>
             <td>Tree </td>
-            <td></td>
+            <td>Design</td>
         </tr>
             <tr align="middle"> 
             <td text-aling="center">65</td>
